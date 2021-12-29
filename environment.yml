@@ -1,0 +1,20 @@
+name: ecolnb2022
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - ipython=7
+  - ipywidgets=7
+  - jupyter
+  - jupyterlab=2
+  - matplotlib=3
+  - notebook=6
+  - numpy
+  - pandas
+  - python=3.9
+  - scikit-learn
+  - scipy
+  - seaborn
+  - requests
+  - pylandstats
