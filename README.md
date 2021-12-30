@@ -1,6 +1,6 @@
-# simple statistics notebook for binder
+# simple landscape metrics notebook for binder
 
-Python notebook for given lectures in University of Tartu LOOM.02.159 Landscape Ecology course
+Python notebook for the Landscape Ecology (LOOM.02.159) course given at the University of Tartu
 
 Run the notebook:
 
