@@ -3,6 +3,7 @@
 Python notebook for the Landscape Ecology (LOOM.02.159) course given at the University of Tartu
 
 Run the notebook:
+
 __Estonian__
 
 [![Run in MyBinder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/LandscapeGeoinformatics/landstats_nb2022/HEAD?filepath=ls_stats_est.ipynb)
