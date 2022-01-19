@@ -19,7 +19,7 @@ __English__
 
 ## License and terms of usage
 
-[![DOI](https://zenodo.org/badge/442721310.svg)](https://zenodo.org/badge/latestdoi/442721310)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5876086.svg)](https://doi.org/10.5281/zenodo.5876086)
 
 Alexander Kmoch and Evelyn Uuemaa
 
