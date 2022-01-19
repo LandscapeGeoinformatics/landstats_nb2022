@@ -19,7 +19,9 @@ __English__
 
 ## License and terms of usage
 
-Alexander Kmoch and Evelyn Uuemaa [![DOI](https://zenodo.org/badge/442721310.svg)](https://zenodo.org/badge/latestdoi/442721310)
+[![DOI](https://zenodo.org/badge/442721310.svg)](https://zenodo.org/badge/latestdoi/442721310)
+
+Alexander Kmoch and Evelyn Uuemaa
 
 We hope that the materials provided here would be helpful for others. Thus, we share all the lesson materials openly, and also our source codes and lesson materials are openly available.
 
